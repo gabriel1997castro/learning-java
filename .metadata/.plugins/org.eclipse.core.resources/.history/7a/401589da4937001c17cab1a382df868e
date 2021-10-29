@@ -1,0 +1,10 @@
+
+public class Caracteres {
+	public static void main(String[] args) {
+		char letra = 'a';
+		System.out.println(letra);
+
+		char valor = 65-1;
+		System.out.println(valor);
+	}
+}
